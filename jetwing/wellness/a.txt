@@ -29,3 +29,20 @@ Sub branches
 •	Jetwing Sea
 •	Jie Jie Beach by Jetwing
 •	Mermaid Hotel & Club
+
+Security solutions
+Reference = https://www.itjones.com/blogs/2020/3/15/how-to-build-a-computer-network-for-your-small-business-part-1-the-basics 
+https://www.duskrise.com/hospitality-use-case 
+1.	Network Security= You need to create a secure network using firewalls and other security tools to protect against any attacks from outside, such as those that may attempt to steal sensitive customer data or gain access to the hotel's reservation system.
+
+2.	Secure Remote Access= If some of the hotel employees need to work from home or another location, you can set up a Virtual Private Network (VPN) to make sure they can access the hotel's network safely and securely.
+
+3.	Monitoring= To swiftly detect and address any possible security issues, such as unauthorized network access or suspicious activity on the reservation system, you can set up a system to watch network traffic.
+
+4.	Access control= You can set up a system where guests have to check in with a username, password, and perhaps even an additional code that they receive on their phone, to ensure that only authorized persons can access the hotel's network.
+
+5.	Device Security: To make sure that all devices connecting to the network are safe from malware and viruses, you can install security software like antivirus and anti-malware on each device.
+
+6.	Payment Card Security: Since hotels typically process a lot of credit card transactions, it's important to implement Payment Card Industry Data Security Standards (PCI DSS) to protect customer credit card information from being stolen.
+
+7.	Physical security= To prevent unwanted access to the hotel's grounds and guest rooms, it's crucial to have physical security measures in place in addition to network security measures, such as security cameras and keycard access systems.
