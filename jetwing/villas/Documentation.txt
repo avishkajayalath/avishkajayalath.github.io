@@ -18,7 +18,7 @@ Router = $100
 Network Interface Card = $65
 Hardware Firewall = $700-$1000
 Wireless Access Point = $1800
-
+Network Printer = $500
 Networking Wires (Ethernet)
 1m = $1.5
 10m = $15-$25
