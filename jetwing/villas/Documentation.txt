@@ -10,3 +10,16 @@ Branches:
 7. Welimada - 2 subnets 
 -----------------------------------------------------------------------------------------------------------------
 Each subnet will have 6 usable IP Addresses.
+-----------------------------------------------------------------------------------------------------------------
+Cost:
+
+Switch = $250-$300
+Router = $100
+Network Interface Card = $65
+Hardware Firewall = $700-$1000
+Wireless Access Point = $1800
+
+Networking Wires (Ethernet)
+1m = $1.5
+10m = $15-$25
+100m = $50-$60
