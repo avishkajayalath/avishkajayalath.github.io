@@ -1,0 +1,12 @@
+Total number of branches: 7
+-----------------------------------------------------------------------------------------------------------------
+Branches: 
+1. Bentota - 2 subnets 
+2. Galle - 1 subnet 
+3. Jaffna - 1 subnet
+4. Negombo - 1 subnet
+5. Nuwara Eliya - 5 subnets
+6. Pottuvil - 1 subnet
+7. Welimada - 2 subnets 
+-----------------------------------------------------------------------------------------------------------------
+Each subnet will have 6 usable IP Addresses.
