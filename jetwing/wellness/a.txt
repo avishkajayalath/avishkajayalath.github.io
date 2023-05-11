@@ -29,6 +29,12 @@ Sub branches
 •	Jetwing Sea
 •	Jie Jie Beach by Jetwing
 •	Mermaid Hotel & Club
+<<<<<<< HEAD
+
+Ayurveda (1 subnet)
+Ayurveda & spa (2 subnets)
+Balinese ayu spa (5 subnets)
+Spa (7 subnets)
 
 Security solutions
 Reference = https://www.itjones.com/blogs/2020/3/15/how-to-build-a-computer-network-for-your-small-business-part-1-the-basics 
@@ -46,3 +52,4 @@ https://www.duskrise.com/hospitality-use-case
 6.	Payment Card Security: Since hotels typically process a lot of credit card transactions, it's important to implement Payment Card Industry Data Security Standards (PCI DSS) to protect customer credit card information from being stolen.
 
 7.	Physical security= To prevent unwanted access to the hotel's grounds and guest rooms, it's crucial to have physical security measures in place in addition to network security measures, such as security cameras and keycard access systems.
+
